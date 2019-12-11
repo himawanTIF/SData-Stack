@@ -1,2 +1,2 @@
 # SData-Stack
-Praktikum Struktur Data - Stack
+Praktikum Struktur Data - Stack [C++]
